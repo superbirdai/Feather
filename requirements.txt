@@ -1,0 +1,4 @@
+OpenAI
+google-generativeai
+requests
+re
